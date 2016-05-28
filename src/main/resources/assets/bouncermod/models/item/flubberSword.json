@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "bouncermod:items/flubber_sword"
+    }
+}
+
